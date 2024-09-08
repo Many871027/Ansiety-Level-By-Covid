@@ -1,0 +1,141 @@
+﻿folio id,sexo,NIVEL DE ESCOLARIDAD,TURNO,EDO CIVIL,CATEGORIA,RANGO DE EDAD,RANGO DE ANTIGÜEDAD,NIVEL DE ANSIEDAD
+1,femenino,licenciatura,nocturno a,union libre,enf gral,20 a 29,1 a 5,leve
+2,femenino,posgrado,matutino,casado,enf esp,40 a 49,16 a 20,minima
+3,masculino,posgrado,matutino,soltero,enf esp,30 a 39,11 a 15,leve
+4,femenino,licenciatura,matutino,union libre,enf esp,40 a 49,16 a 20,moderada
+5,femenino,posgrado,matutino,soltero,enf gral,30 a 39,11 a 15,leve
+6,femenino,licenciatura,matutino,soltero,enf gral,20 a 29,1 a 5,moderada
+7,femenino,licenciatura,matutino,soltero,enf jefe,40 a 49,16 a 20,leve
+8,femenino,licenciatura,matutino,casado,aux enf,30 a 39,6 a 10,moderada
+9,femenino,licenciatura,matutino,casado,enf gral,30 a 39,1 a 5,moderada
+10,masculino,licenciatura,matutino,soltero,enf gral,20 a 29,6 a 10,leve
+11,masculino,licenciatura,matutino,casado,enf gral,40 a 49,11 a 15,leve
+12,femenino,nivel tecnico,matutino,union libre,aux enf,30 a 39,1 a 5,minima
+13,femenino,licenciatura,matutino,soltero,enf gral,40 a 49,6 a 10,minima
+14,femenino,nivel tecnico,matutino,casado,enf gral,50 y mas,11 a 15,leve
+15,femenino,licenciatura,matutino,dicorciado,enf gral,30 a 39,6 a 10,moderada
+16,femenino,nivel tecnico,matutino,union libre,enf gral,30 a 39,11 a 15,minima
+17,femenino,licenciatura,matutino,casado,enf gral,40 a 49,16 a 20,minima
+18,femenino,licenciatura,matutino,soltero,enf gral,20 a 29,1 a 5,minima
+19,femenino,nivel tecnico,matutino,casado,aux enf,20 a 29,16 a 20,moderada
+20,femenino,licenciatura,matutino,soltero,enf gral,30 a 39,1 a 5,minima
+21,femenino,licenciatura,matutino,soltero,enf gral,30 a 39,1 a 5,leve
+22,femenino,licenciatura,matutino,union libre,aux enf,30 a 39,6 a 10,moderada
+23,femenino,licenciatura,matutino,casado,aux enf,30 a 39,6 a 10,minima
+24,femenino,licenciatura,matutino,casado,enf jefe,40 a 49,16 a 20,moderada
+25,masculino,nivel tecnico,matutino,casado,aux enf,40 a 49,11 a 15,minima
+26,masculino,licenciatura,matutino,soltero,aux enf,30 a 39,6 a 10,severa
+27,femenino,licenciatura,matutino,casado,enf gral,30 a 39,6 a 10,moderada
+28,femenino,licenciatura,matutino,soltero,enf gral,30 a 39,6 a 10,moderada
+29,femenino,licenciatura,matutino,casado,enf gral,30 a 39,1 a 5,leve
+30,femenino,nivel tecnico,matutino,casado,enf gral,50 y mas,6 a 10,leve
+31,femenino,licenciatura,vespertino,soltero,enf gral,30 a 39,6 a 10,moderada
+32,femenino,licenciatura,nocturno a,union libre,aux enf,30 a 39,6 a 10,leve
+33,femenino,licenciatura,nocturno a,casado,enf gral,40 a 49,16 a 20,leve
+34,femenino,posgrado,nocturno a,casado,enf esp,40 a 49,11 a 15,minima
+35,femenino,licenciatura,nocturno a,casado,enf gral,50 y mas,11 a 15,leve
+36,femenino,nivel tecnico,matutino,casado,aux enf,20 a 29,6 a 10,minima
+37,femenino,licenciatura,matutino,soltero,aux enf,30 a 39,1 a 5,minima
+38,femenino,licenciatura,vespertino,soltero,aux enf,30 a 39,1 a 5,minima
+39,femenino,licenciatura,vespertino,soltero,aux enf,20 a 29,1 a 5,minima
+40,masculino,nivel tecnico,nocturno a,casado,aux enf,50 y mas,16 a 20,leve
+41,masculino,licenciatura,vespertino,dicorciado,enf gral,30 a 39,6 a 10,leve
+42,masculino,licenciatura,vespertino,soltero,aux enf,20 a 29,1 a 5,leve
+43,femenino,licenciatura,vespertino,soltero,enf gral,20 a 29,1 a 5,leve
+44,masculino,licenciatura,vespertino,casado,enf gral,20 a 29,1 a 5,severa
+45,femenino,nivel tecnico,vespertino,casado,enf gral,50 y mas,16 a 20,minima
+46,masculino,licenciatura,vespertino,casado,enf gral,40 a 49,6 a 10,minima
+47,femenino,licenciatura,vespertino,soltero,aux enf,20 a 29,1 a 5,leve
+48,femenino,licenciatura,vespertino,soltero,enf gral,20 a 29,1 a 5,leve
+49,femenino,licenciatura,vespertino,union libre,enf gral,20 a 29,1 a 5,minima
+50,femenino,posgrado,vespertino,soltero,enf gral,30 a 39,1 a 5,leve
+51,masculino,licenciatura,vespertino,soltero,enf gral,20 a 29,1 a 5,minima
+52,femenino,licenciatura,vespertino,soltero,aux enf,30 a 39,6 a 10,minima
+53,femenino,licenciatura,vespertino,union libre,enf gral,20 a 29,1 a 5,minima
+54,masculino,licenciatura,vespertino,casado,enf gral,30 a 39,11 a 15,leve
+55,masculino,licenciatura,vespertino,casado,aux enf,20 a 29,1 a 5,moderada
+56,masculino,licenciatura,nocturno b,casado,enf gral,30 a 39,6 a 10,leve
+57,femenino,nivel tecnico,nocturno b,soltero,enf gral,20 a 29,1 a 5,leve
+58,femenino,licenciatura,nocturno b,soltero,enf gral,30 a 39,1 a 5,minima
+59,femenino,licenciatura,nocturno a,casado,enf gral,40 a 49,11 a 15,leve
+60,femenino,licenciatura,nocturno a,dicorciado,enf gral,30 a 39,6 a 10,moderada
+61,femenino,licenciatura,nocturno b,soltero,enf gral,30 a 39,6 a 10,minima
+62,femenino,licenciatura,nocturno b,casado,enf gral,40 a 49,11 a 15,moderada
+63,masculino,licenciatura,nocturno b,union libre,aux enf,30 a 39,1 a 5,leve
+64,masculino,nivel tecnico,nocturno b,casado,aux enf,40 a 49,6 a 10,minima
+65,femenino,nivel tecnico,nocturno b,casado,enf gral,40 a 49,16 a 20,severa
+66,femenino,nivel tecnico,nocturno a,casado,aux enf,30 a 39,6 a 10,moderada
+67,femenino,licenciatura,nocturno b,soltero,enf gral,20 a 29,1 a 5,minima
+68,femenino,posgrado,nocturno a,soltero,aux enf,30 a 39,1 a 5,moderada
+69,femenino,licenciatura,nocturno b,soltero,aux enf,20 a 29,1 a 5,leve
+70,masculino,licenciatura,matutino,casado,aux enf,40 a 49,16 a 20,leve
+71,femenino,posgrado,matutino,casado,enf gral,30 a 39,1 a 5,leve
+72,femenino,licenciatura,matutino,soltero,enf gral,30 a 39,6 a 10,leve
+73,femenino,nivel tecnico,matutino,union libre,aux enf,40 a 49,6 a 10,leve
+74,femenino,licenciatura,matutino,casado,aux enf,30 a 39,11 a 15,minima
+75,femenino,licenciatura,matutino,soltero,aux enf,30 a 39,6 a 10,leve
+76,femenino,nivel tecnico,matutino,casado,enf gral,50 y mas,21 y mas,minima
+77,femenino,licenciatura,nocturno b,dicorciado,enf jefe,40 a 49,21 y mas,minima
+78,femenino,licenciatura,nocturno b,soltero,enf gral,30 a 39,6 a 10,minima
+79,femenino,licenciatura,nocturno b,viudo,enf gral,50 y mas,21 y mas,minima
+80,femenino,licenciatura,nocturno b,casado,enf gral,40 a 49,11 a 15,leve
+81,femenino,licenciatura,vespertino,soltero,aux enf,20 a 29,1 a 5,severa
+82,femenino,licenciatura,matutino,union libre,enf gral,30 a 39,1 a 5,minima
+83,femenino,posgrado,nocturno b,soltero,enf gral,30 a 39,1 a 5,severa
+84,masculino,licenciatura,vespertino,soltero,enf gral,30 a 39,1 a 5,minima
+85,femenino,licenciatura,vespertino,soltero,enf gral,30 a 39,1 a 5,leve
+86,femenino,licenciatura,vespertino,union libre,enf gral,30 a 39,1 a 5,minima
+87,femenino,licenciatura,vespertino,soltero,aux enf,20 a 29,1 a 5,minima
+88,femenino,licenciatura,vespertino,soltero,aux enf,20 a 29,1 a 5,minima
+89,femenino,licenciatura,vespertino,soltero,aux enf,20 a 29,1 a 5,minima
+90,femenino,licenciatura,vespertino,union libre,enf gral,30 a 39,1 a 5,moderada
+91,femenino,licenciatura,vespertino,soltero,aux enf,30 a 39,6 a 10,severa
+92,femenino,nivel tecnico,vespertino,soltero,aux enf,50 y mas,16 a 20,minima
+93,femenino,licenciatura,nocturno a,soltero,aux enf,50 y mas,21 y mas,minima
+94,femenino,licenciatura,nocturno a,union libre,aux enf,20 a 29,1 a 5,moderada
+95,femenino,licenciatura,nocturno a,casado,aux enf,20 a 29,1 a 5,minima
+96,femenino,licenciatura,nocturno a,union libre,enf gral,40 a 49,1 a 5,minima
+97,masculino,licenciatura,nocturno a,union libre,enf gral,20 a 29,1 a 5,minima
+98,masculino,nivel tecnico,nocturno a,casado,aux enf,30 a 39,16 a 20,minima
+99,femenino,licenciatura,vespertino,casado,enf gral,20 a 29,1 a 5,minima
+100,femenino,licenciatura,nocturno a,union libre,enf gral,30 a 39,1 a 5,minima
+101,femenino,nivel tecnico,nocturno a,casado,enf gral,30 a 39,11 a 15,leve
+102,masculino,posgrado,vespertino,casado,enf jefe,40 a 49,11 a 15,moderada
+103,masculino,nivel tecnico,nocturno a,casado,aux enf,30 a 39,11 a 15,leve
+104,femenino,licenciatura,matutino,casado,aux enf,20 a 29,1 a 5,leve
+105,masculino,licenciatura,vespertino,casado,aux enf,20 a 29,1 a 5,leve
+106,femenino,licenciatura,vespertino,soltero,aux enf,40 a 49,11 a 15,minima
+107,femenino,nivel tecnico,matutino,soltero,enf gral,40 a 49,6 a 10,minima
+108,femenino,licenciatura,matutino,casado,aux enf,40 a 49,16 a 20,minima
+109,femenino,nivel tecnico,matutino,soltero,aux enf,30 a 39,16 a 20,minima
+110,masculino,nivel tecnico,matutino,casado,enf gral,40 a 49,21 y mas,minima
+111,femenino,licenciatura,vespertino,soltero,aux enf,30 a 39,6 a 10,minima
+112,femenino,licenciatura,vespertino,dicorciado,enf gral,30 a 39,1 a 5,leve
+113,femenino,licenciatura,matutino,casado,enf gral,30 a 39,11 a 15,minima
+114,masculino,nivel tecnico,matutino,soltero,aux enf,30 a 39,6 a 10,moderada
+115,femenino,nivel tecnico,matutino,union libre,aux enf,30 a 39,6 a 10,minima
+116,masculino,nivel tecnico,vespertino,union libre,aux enf,30 a 39,6 a 10,leve
+117,femenino,licenciatura,matutino,casado,enf gral,30 a 39,1 a 5,severa
+118,femenino,licenciatura,matutino,casado,enf gral,30 a 39,6 a 10,leve
+119,masculino,nivel tecnico,matutino,union libre,aux enf,30 a 39,6 a 10,leve
+120,masculino,nivel tecnico,vespertino,soltero,aux enf,40 a 49,6 a 10,minima
+121,femenino,licenciatura,vespertino,casado,enf gral,40 a 49,16 a 20,leve
+122,femenino,licenciatura,vespertino,soltero,aux enf,20 a 29,1 a 5,minima
+123,femenino,posgrado,vespertino,casado,enf jefe,40 a 49,11 a 15,minima
+124,femenino,licenciatura,matutino,casado,enf esp,30 a 39,11 a 15,leve
+125,femenino,licenciatura,vespertino,soltero,aux enf,30 a 39,1 a 5,minima
+126,masculino,licenciatura,matutino,casado,enf gral,40 a 49,11 a 15,leve
+127,femenino,licenciatura,vespertino,soltero,aux enf,20 a 29,1 a 5,leve
+128,femenino,licenciatura,vespertino,casado,enf gral,30 a 39,6 a 10,leve
+129,femenino,licenciatura,vespertino,soltero,aux enf,20 a 29,1 a 5,minima
+130,femenino,nivel tecnico,nocturno a,casado,enf gral,30 a 39,11 a 15,minima
+131,femenino,licenciatura,vespertino,soltero,enf gral,30 a 39,6 a 10,leve
+132,masculino,nivel tecnico,vespertino,soltero,enf gral,20 a 29,1 a 5,minima
+133,femenino,licenciatura,nocturno b,casado,enf esp,30 a 39,11 a 15,leve
+134,femenino,licenciatura,nocturno b,casado,enf gral,30 a 39,1 a 5,moderada
+135,masculino,licenciatura,vespertino,soltero,enf gral,20 a 29,1 a 5,minima
+136,femenino,nivel tecnico,vespertino,casado,enf gral,30 a 39,11 a 15,minima
+137,femenino,posgrado,vespertino,union libre,enf esp,30 a 39,6 a 10,leve
+138,femenino,licenciatura,nocturno b,casado,enf gral,40 a 49,11 a 15,minima
+139,masculino,nivel tecnico,vespertino,soltero,aux enf,30 a 39,16 a 20,moderada
+140,femenino,licenciatura,vespertino,casado,aux enf,40 a 49,11 a 15,minima
