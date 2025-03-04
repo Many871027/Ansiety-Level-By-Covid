@@ -1,0 +1,141 @@
+sex,education_level,shift,marital_status,category,age_range,seniority_range,anxiety_level
+female,bachelor,night a,domestic partnership,gen nurse,20 to 29,1 to 5,mild
+female,graduate,morning,married,spec nurse,40 to 49,16 to 20,minimal
+male,graduate,morning,single,spec nurse,30 to 39,11 to 15,mild
+female,bachelor,morning,domestic partnership,spec nurse,40 to 49,16 to 20,moderate
+female,graduate,morning,single,gen nurse,30 to 39,11 to 15,mild
+female,bachelor,morning,single,gen nurse,20 to 29,1 to 5,moderate
+female,bachelor,morning,single,head nurse,40 to 49,16 to 20,mild
+female,bachelor,morning,married,nurse aux,30 to 39,6 to 10,moderate
+female,bachelor,morning,married,gen nurse,30 to 39,1 to 5,moderate
+male,bachelor,morning,single,gen nurse,20 to 29,6 to 10,mild
+male,bachelor,morning,married,gen nurse,40 to 49,11 to 15,mild
+female,technical level,morning,domestic partnership,nurse aux,30 to 39,1 to 5,minimal
+female,bachelor,morning,single,gen nurse,40 to 49,6 to 10,minimal
+female,technical level,morning,married,gen nurse,50 and over,11 to 15,mild
+female,bachelor,morning,,gen nurse,30 to 39,6 to 10,moderate
+female,technical level,morning,domestic partnership,gen nurse,30 to 39,11 to 15,minimal
+female,bachelor,morning,married,gen nurse,40 to 49,16 to 20,minimal
+female,bachelor,morning,single,gen nurse,20 to 29,1 to 5,minimal
+female,technical level,morning,married,nurse aux,20 to 29,16 to 20,moderate
+female,bachelor,morning,single,gen nurse,30 to 39,1 to 5,minimal
+female,bachelor,morning,single,gen nurse,30 to 39,1 to 5,mild
+female,bachelor,morning,domestic partnership,nurse aux,30 to 39,6 to 10,moderate
+female,bachelor,morning,married,nurse aux,30 to 39,6 to 10,minimal
+female,bachelor,morning,married,head nurse,40 to 49,16 to 20,moderate
+male,technical level,morning,married,nurse aux,40 to 49,11 to 15,minimal
+male,bachelor,morning,single,nurse aux,30 to 39,6 to 10,severe
+female,bachelor,morning,married,gen nurse,30 to 39,6 to 10,moderate
+female,bachelor,morning,single,gen nurse,30 to 39,6 to 10,moderate
+female,bachelor,morning,married,gen nurse,30 to 39,1 to 5,mild
+female,technical level,morning,married,gen nurse,50 and over,6 to 10,mild
+female,bachelor,afternoon,single,gen nurse,30 to 39,6 to 10,moderate
+female,bachelor,night a,domestic partnership,nurse aux,30 to 39,6 to 10,mild
+female,bachelor,night a,married,gen nurse,40 to 49,16 to 20,mild
+female,graduate,night a,married,spec nurse,40 to 49,11 to 15,minimal
+female,bachelor,night a,married,gen nurse,50 and over,11 to 15,mild
+female,technical level,morning,married,nurse aux,20 to 29,6 to 10,minimal
+female,bachelor,morning,single,nurse aux,30 to 39,1 to 5,minimal
+female,bachelor,afternoon,single,nurse aux,30 to 39,1 to 5,minimal
+female,bachelor,afternoon,single,nurse aux,20 to 29,1 to 5,minimal
+male,technical level,night a,married,nurse aux,50 and over,16 to 20,mild
+male,bachelor,afternoon,,gen nurse,30 to 39,6 to 10,mild
+male,bachelor,afternoon,single,nurse aux,20 to 29,1 to 5,mild
+female,bachelor,afternoon,single,gen nurse,20 to 29,1 to 5,mild
+male,bachelor,afternoon,married,gen nurse,20 to 29,1 to 5,severe
+female,technical level,afternoon,married,gen nurse,50 and over,16 to 20,minimal
+male,bachelor,afternoon,married,gen nurse,40 to 49,6 to 10,minimal
+female,bachelor,afternoon,single,nurse aux,20 to 29,1 to 5,mild
+female,bachelor,afternoon,single,gen nurse,20 to 29,1 to 5,mild
+female,bachelor,afternoon,domestic partnership,gen nurse,20 to 29,1 to 5,minimal
+female,graduate,afternoon,single,gen nurse,30 to 39,1 to 5,mild
+male,bachelor,afternoon,single,gen nurse,20 to 29,1 to 5,minimal
+female,bachelor,afternoon,single,nurse aux,30 to 39,6 to 10,minimal
+female,bachelor,afternoon,domestic partnership,gen nurse,20 to 29,1 to 5,minimal
+male,bachelor,afternoon,married,gen nurse,30 to 39,11 to 15,mild
+male,bachelor,afternoon,married,nurse aux,20 to 29,1 to 5,moderate
+male,bachelor,night b,married,gen nurse,30 to 39,6 to 10,mild
+female,technical level,night b,single,gen nurse,20 to 29,1 to 5,mild
+female,bachelor,night b,single,gen nurse,30 to 39,1 to 5,minimal
+female,bachelor,night a,married,gen nurse,40 to 49,11 to 15,mild
+female,bachelor,night a,,gen nurse,30 to 39,6 to 10,moderate
+female,bachelor,night b,single,gen nurse,30 to 39,6 to 10,minimal
+female,bachelor,night b,married,gen nurse,40 to 49,11 to 15,moderate
+male,bachelor,night b,domestic partnership,nurse aux,30 to 39,1 to 5,mild
+male,technical level,night b,married,nurse aux,40 to 49,6 to 10,minimal
+female,technical level,night b,married,gen nurse,40 to 49,16 to 20,severe
+female,technical level,night a,married,nurse aux,30 to 39,6 to 10,moderate
+female,bachelor,night b,single,gen nurse,20 to 29,1 to 5,minimal
+female,graduate,night a,single,nurse aux,30 to 39,1 to 5,moderate
+female,bachelor,night b,single,nurse aux,20 to 29,1 to 5,mild
+male,bachelor,morning,married,nurse aux,40 to 49,16 to 20,mild
+female,graduate,morning,married,gen nurse,30 to 39,1 to 5,mild
+female,bachelor,morning,single,gen nurse,30 to 39,6 to 10,mild
+female,technical level,morning,domestic partnership,nurse aux,40 to 49,6 to 10,mild
+female,bachelor,morning,married,nurse aux,30 to 39,11 to 15,minimal
+female,bachelor,morning,single,nurse aux,30 to 39,6 to 10,mild
+female,technical level,morning,married,gen nurse,50 and over,21 and over,minimal
+female,bachelor,night b,,head nurse,40 to 49,21 and over,minimal
+female,bachelor,night b,single,gen nurse,30 to 39,6 to 10,minimal
+female,bachelor,night b,widowed,gen nurse,50 and over,21 and over,minimal
+female,bachelor,night b,married,gen nurse,40 to 49,11 to 15,mild
+female,bachelor,afternoon,single,nurse aux,20 to 29,1 to 5,severe
+female,bachelor,morning,domestic partnership,gen nurse,30 to 39,1 to 5,minimal
+female,graduate,night b,single,gen nurse,30 to 39,1 to 5,severe
+male,bachelor,afternoon,single,gen nurse,30 to 39,1 to 5,minimal
+female,bachelor,afternoon,single,gen nurse,30 to 39,1 to 5,mild
+female,bachelor,afternoon,domestic partnership,gen nurse,30 to 39,1 to 5,minimal
+female,bachelor,afternoon,single,nurse aux,20 to 29,1 to 5,minimal
+female,bachelor,afternoon,single,nurse aux,20 to 29,1 to 5,minimal
+female,bachelor,afternoon,single,nurse aux,20 to 29,1 to 5,minimal
+female,bachelor,afternoon,domestic partnership,gen nurse,30 to 39,1 to 5,moderate
+female,bachelor,afternoon,single,nurse aux,30 to 39,6 to 10,severe
+female,technical level,afternoon,single,nurse aux,50 and over,16 to 20,minimal
+female,bachelor,night a,single,nurse aux,50 and over,21 and over,minimal
+female,bachelor,night a,domestic partnership,nurse aux,20 to 29,1 to 5,moderate
+female,bachelor,night a,married,nurse aux,20 to 29,1 to 5,minimal
+female,bachelor,night a,domestic partnership,gen nurse,40 to 49,1 to 5,minimal
+male,bachelor,night a,domestic partnership,gen nurse,20 to 29,1 to 5,minimal
+male,technical level,night a,married,nurse aux,30 to 39,16 to 20,minimal
+female,bachelor,afternoon,married,gen nurse,20 to 29,1 to 5,minimal
+female,bachelor,night a,domestic partnership,gen nurse,30 to 39,1 to 5,minimal
+female,technical level,night a,married,gen nurse,30 to 39,11 to 15,mild
+male,graduate,afternoon,married,head nurse,40 to 49,11 to 15,moderate
+male,technical level,night a,married,nurse aux,30 to 39,11 to 15,mild
+female,bachelor,morning,married,nurse aux,20 to 29,1 to 5,mild
+male,bachelor,afternoon,married,nurse aux,20 to 29,1 to 5,mild
+female,bachelor,afternoon,single,nurse aux,40 to 49,11 to 15,minimal
+female,technical level,morning,single,gen nurse,40 to 49,6 to 10,minimal
+female,bachelor,morning,married,nurse aux,40 to 49,16 to 20,minimal
+female,technical level,morning,single,nurse aux,30 to 39,16 to 20,minimal
+male,technical level,morning,married,gen nurse,40 to 49,21 and over,minimal
+female,bachelor,afternoon,single,nurse aux,30 to 39,6 to 10,minimal
+female,bachelor,afternoon,,gen nurse,30 to 39,1 to 5,mild
+female,bachelor,morning,married,gen nurse,30 to 39,11 to 15,minimal
+male,technical level,morning,single,nurse aux,30 to 39,6 to 10,moderate
+female,technical level,morning,domestic partnership,nurse aux,30 to 39,6 to 10,minimal
+male,technical level,afternoon,domestic partnership,nurse aux,30 to 39,6 to 10,mild
+female,bachelor,morning,married,gen nurse,30 to 39,1 to 5,severe
+female,bachelor,morning,married,gen nurse,30 to 39,6 to 10,mild
+male,technical level,morning,domestic partnership,nurse aux,30 to 39,6 to 10,mild
+male,technical level,afternoon,single,nurse aux,40 to 49,6 to 10,minimal
+female,bachelor,afternoon,married,gen nurse,40 to 49,16 to 20,mild
+female,bachelor,afternoon,single,nurse aux,20 to 29,1 to 5,minimal
+female,graduate,afternoon,married,head nurse,40 to 49,11 to 15,minimal
+female,bachelor,morning,married,spec nurse,30 to 39,11 to 15,mild
+female,bachelor,afternoon,single,nurse aux,30 to 39,1 to 5,minimal
+male,bachelor,morning,married,gen nurse,40 to 49,11 to 15,mild
+female,bachelor,afternoon,single,nurse aux,20 to 29,1 to 5,mild
+female,bachelor,afternoon,married,gen nurse,30 to 39,6 to 10,mild
+female,bachelor,afternoon,single,nurse aux,20 to 29,1 to 5,minimal
+female,technical level,night a,married,gen nurse,30 to 39,11 to 15,minimal
+female,bachelor,afternoon,single,gen nurse,30 to 39,6 to 10,mild
+male,technical level,afternoon,single,gen nurse,20 to 29,1 to 5,minimal
+female,bachelor,night b,married,spec nurse,30 to 39,11 to 15,mild
+female,bachelor,night b,married,gen nurse,30 to 39,1 to 5,moderate
+male,bachelor,afternoon,single,gen nurse,20 to 29,1 to 5,minimal
+female,technical level,afternoon,married,gen nurse,30 to 39,11 to 15,minimal
+female,graduate,afternoon,domestic partnership,spec nurse,30 to 39,6 to 10,mild
+female,bachelor,night b,married,gen nurse,40 to 49,11 to 15,minimal
+male,technical level,afternoon,single,nurse aux,30 to 39,16 to 20,moderate
+female,bachelor,afternoon,married,nurse aux,40 to 49,11 to 15,minimal
